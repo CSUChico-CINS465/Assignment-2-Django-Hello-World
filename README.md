@@ -7,7 +7,7 @@ Getting started with making a simple stand alone Django web project.
 * Be submitted to GitHub correctly
   * Containerized is optional
   * Must be submitted to the correct branch
-* You should be able to view the site on your local machine at http://localhost/. For more information on setting up routes in Django, please see [the documentation](https://docs.djangoproject.com/en/2.0/topics/http/urls/)
+* You should be able to view the site on your local machine at http://localhost:8000/. For more information on setting up routes in Django, please see [the documentation](https://docs.djangoproject.com/en/2.0/topics/http/urls/)
 
 ## Submitting Assignment 2
 
